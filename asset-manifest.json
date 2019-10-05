@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cal-react/static/css/main.e1d9adf5.chunk.css",
+    "main.js": "/cal-react/static/js/main.49fbf5c7.chunk.js",
+    "main.js.map": "/cal-react/static/js/main.49fbf5c7.chunk.js.map",
+    "runtime~main.js": "/cal-react/static/js/runtime~main.49ce0728.js",
+    "runtime~main.js.map": "/cal-react/static/js/runtime~main.49ce0728.js.map",
+    "static/js/2.7aa4910d.chunk.js": "/cal-react/static/js/2.7aa4910d.chunk.js",
+    "static/js/2.7aa4910d.chunk.js.map": "/cal-react/static/js/2.7aa4910d.chunk.js.map",
+    "index.html": "/cal-react/index.html",
+    "precache-manifest.a443be6640a4f10323c76214d5bfd905.js": "/cal-react/precache-manifest.a443be6640a4f10323c76214d5bfd905.js",
+    "service-worker.js": "/cal-react/service-worker.js",
+    "static/css/main.e1d9adf5.chunk.css.map": "/cal-react/static/css/main.e1d9adf5.chunk.css.map"
+  }
+}
